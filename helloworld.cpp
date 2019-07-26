@@ -11,4 +11,4 @@ using namespace eosio;
 
             print("Hello, ", user);
     }
-};
+};//12
